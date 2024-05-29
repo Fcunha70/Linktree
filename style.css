@@ -17,6 +17,24 @@ html, body, .container {
     align-items: center;
 }
 
+.foto {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-image: url('images/Perfil.jpg');
+    background-repeat: no-repeat;
+    background-position: 40% 50%;
+    background-size: 300px;
+    margin-bottom: 20px;
+}
+
+.perfil {
+    text-align: center;
+    color: #fff;
+    margin-bottom: 20px;
+
+}
+
 .links a {
 outline: none;
 display: flex;
